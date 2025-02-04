@@ -11,4 +11,5 @@ Repositorio para la práctica de Git y GitHub en equipo. Cada integrante creará
 ## Instrucciones
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/usuario/ejercicio_git_mpst_{numero_del_equipo}.git
+   git clone [
+](https://github.com/octaviodiego78/ejercicio_git_mpst_1-6.git)
